@@ -1,0 +1,14 @@
+{
+  "name": "street-rider-bmx",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build" },
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/cli": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "three": "0.160.0"
+  },
+  "devDependencies": { "vite": "^5.4.0" }
+}
